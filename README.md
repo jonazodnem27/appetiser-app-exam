@@ -2,7 +2,7 @@
 
 ## Download the Code
 Download the Code and place it on your desktop. Extract it and use this code to go to that path
-cd desktop/appetiser-app
+cd desktop/appetiser-app-exam-main
 
 ## Project setup
 ```
